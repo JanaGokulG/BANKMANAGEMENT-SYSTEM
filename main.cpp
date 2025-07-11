@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 #include <bitset>
-// Assuming all the classes (HashTable, BloomFilter, Bank, Account, AccountBST, RelationshipGraph, Loan) are defined as provided earlier.
 
 #include <iostream>
 #include <string>
